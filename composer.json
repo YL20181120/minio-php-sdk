@@ -14,7 +14,7 @@
       "email": "youjingqiang@vip.qq.com"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "master",
   "require": {
     "php": ">=7.0",
     "nathanmac/parser": "^3.0@dev"
