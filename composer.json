@@ -1,0 +1,27 @@
+{
+  "name": "jasmine2/minio-php-sdk",
+  "description": "Minio Client SDK for PHP",
+  "keywords": [
+    "minio",
+    "php",
+    "sdk"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "jasmine",
+      "email": "youjingqiang@vip.qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0",
+    "nathanmac/parser": "^3.0@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "jasmine2\\Minio\\": "src/"
+    }
+  }
+}
